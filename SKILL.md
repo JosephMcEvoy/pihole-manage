@@ -2,7 +2,7 @@
 name: pihole-manage
 description: Comprehensive Pi-hole network ad blocker management skill. This skill should be used when users want to manage, configure, monitor, or troubleshoot their Pi-hole instance via the v6 REST API. Covers DNS blocking, allowlists/denylists, group management, client configuration, DHCP, statistics, query logs, gravity updates, teleporter backup/restore, custom DNS records, and system information.
 metadata:
-  author: joema
+  author: JosephMcEvoy
   version: "1.0.0"
   pihole_api_version: "v6"
 ---
